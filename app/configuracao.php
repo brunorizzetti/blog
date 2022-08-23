@@ -6,7 +6,7 @@
  const DB = [
      'HOST' => 'localhost',
      'USUARIO' => 'root',
-     'SENHA' => 'toor321',
+     'SENHA' => '',
      'BANCO' => 'blog',
      'PORTA' => '3306'
  ];
